@@ -35,7 +35,7 @@ ThresholdNet
 |---test.txt
 |---valid.txt
 ```
-The content of 'train.txt' should be just like:
+The content of 'train.txt', 'test.txt' and 'valid.txt' should be just like:
 ```
 26.png
 27.png
