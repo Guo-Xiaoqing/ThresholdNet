@@ -1,5 +1,5 @@
 # ----------------------------------------
-# Written by Yude Wang
+# Written by Xiaoqing Guo
 # ----------------------------------------
 
 import torch
