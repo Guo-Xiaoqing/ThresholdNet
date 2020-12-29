@@ -2,56 +2,32 @@ Submitted from:/home/xiaoqiguo2/Threshold on node:master
 Running on node node3
 Allocate Gpu Units:1,2
 Use 2 GPU
-epoch:450/500	SegCE loss:0.0172186 	SegJaccard loss:0.0918112 	ThrJaccard loss:0.0914705 	ThrGrad loss:0.000109801 	ThrSup loss:0.307022
-Mixup:	SegCE loss:0.0353085 	SegJaccard loss:0.115768 	ThrJaccard loss:0.115405 	SegMixup loss:0.583783 	ThrSup loss:0.30811 
-
-       Acc: 97.019%          Sen: 85.140%          Spe: 99.603%         Prec: 93.352%         Dice: 86.381%          Jac: 79.500%           F2: 85.308%
-
 epoch:0/500	SegCE loss:0.565868 	SegJaccard loss:0.72556 	ThrJaccard loss:0.653613 	ThrGrad loss:8.51438e-05 	ThrSup loss:0.329786
        Acc: 87.883%          Sen: 89.866%          Spe: 88.967%         Prec: 44.623%         Dice: 53.425%          Jac: 40.703%           F2: 65.621%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch0_dice53.425.pth has been saved
 epoch:1/500	SegCE loss:0.155583 	SegJaccard loss:0.42637 	ThrJaccard loss:0.391593 	ThrGrad loss:0.000117163 	ThrSup loss:0.319792
-epoch:451/500	SegCE loss:0.0172099 	SegJaccard loss:0.0916405 	ThrJaccard loss:0.0910476 	ThrGrad loss:0.000100843 	ThrSup loss:0.30701
-Mixup:	SegCE loss:0.0415374 	SegJaccard loss:0.131192 	ThrJaccard loss:0.130772 	SegMixup loss:0.625795 	ThrSup loss:0.308623 
-
 epoch:2/500	SegCE loss:0.10305 	SegJaccard loss:0.335064 	ThrJaccard loss:0.317028 	ThrGrad loss:0.000223763 	ThrSup loss:0.316634
        Acc: 93.924%          Sen: 76.388%          Spe: 97.625%         Prec: 74.000%         Dice: 66.707%          Jac: 55.422%           F2: 69.709%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch2_dice66.707.pth has been saved
 epoch:3/500	SegCE loss:0.0840021 	SegJaccard loss:0.296413 	ThrJaccard loss:0.279406 	ThrGrad loss:0.000287305 	ThrSup loss:0.314185
-epoch:452/500	SegCE loss:0.0171008 	SegJaccard loss:0.0895629 	ThrJaccard loss:0.0897188 	ThrGrad loss:0.000103756 	ThrSup loss:0.307012
-Mixup:	SegCE loss:0.0318945 	SegJaccard loss:0.110684 	ThrJaccard loss:0.10993 	SegMixup loss:0.515667 	ThrSup loss:0.308496 
-
-       Acc: 97.054%          Sen: 85.687%          Spe: 99.576%         Prec: 93.060%         Dice: 86.552%          Jac: 79.743%           F2: 85.644%
-
 epoch:4/500	SegCE loss:0.069304 	SegJaccard loss:0.277792 	ThrJaccard loss:0.260628 	ThrGrad loss:0.000342563 	ThrSup loss:0.313679
        Acc: 94.501%          Sen: 79.292%          Spe: 97.926%         Prec: 76.117%         Dice: 69.995%          Jac: 59.113%           F2: 73.060%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch4_dice69.995.pth has been saved
 epoch:5/500	SegCE loss:0.0621728 	SegJaccard loss:0.255308 	ThrJaccard loss:0.23773 	ThrGrad loss:0.00038373 	ThrSup loss:0.312934
-epoch:453/500	SegCE loss:0.01713 	SegJaccard loss:0.091792 	ThrJaccard loss:0.0912334 	ThrGrad loss:0.000110516 	ThrSup loss:0.307361
-Mixup:	SegCE loss:0.0413854 	SegJaccard loss:0.132229 	ThrJaccard loss:0.131578 	SegMixup loss:0.638813 	ThrSup loss:0.308684 
-
 epoch:6/500	SegCE loss:0.0603013 	SegJaccard loss:0.243112 	ThrJaccard loss:0.231539 	ThrGrad loss:0.000413533 	ThrSup loss:0.314201
        Acc: 95.155%          Sen: 77.793%          Spe: 98.880%         Prec: 82.394%         Dice: 73.787%          Jac: 63.394%           F2: 74.999%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch6_dice73.787.pth has been saved
 epoch:7/500	SegCE loss:0.0596014 	SegJaccard loss:0.237973 	ThrJaccard loss:0.227297 	ThrGrad loss:0.000375364 	ThrSup loss:0.312651
-epoch:454/500	SegCE loss:0.0169483 	SegJaccard loss:0.0933888 	ThrJaccard loss:0.0936339 	ThrGrad loss:0.000111364 	ThrSup loss:0.30697
-Mixup:	SegCE loss:0.0479738 	SegJaccard loss:0.144243 	ThrJaccard loss:0.140916 	SegMixup loss:0.718837 	ThrSup loss:0.308559 
-
-       Acc: 97.050%          Sen: 85.891%          Spe: 99.548%         Prec: 92.726%         Dice: 86.479%          Jac: 79.637%           F2: 85.700%
-
 epoch:8/500	SegCE loss:0.0519333 	SegJaccard loss:0.221978 	ThrJaccard loss:0.211874 	ThrGrad loss:0.000393429 	ThrSup loss:0.311217
        Acc: 95.388%          Sen: 78.070%          Spe: 99.094%         Prec: 84.385%         Dice: 75.410%          Jac: 65.269%           F2: 76.049%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch8_dice75.410.pth has been saved
 epoch:9/500	SegCE loss:0.0538052 	SegJaccard loss:0.218086 	ThrJaccard loss:0.207946 	ThrGrad loss:0.000398557 	ThrSup loss:0.311033
 epoch:10/500	SegCE loss:0.0509131 	SegJaccard loss:0.214194 	ThrJaccard loss:0.203382 	ThrGrad loss:0.00040457 	ThrSup loss:0.311082
-epoch:455/500	SegCE loss:0.0168552 	SegJaccard loss:0.0900365 	ThrJaccard loss:0.0901856 	ThrGrad loss:0.000106143 	ThrSup loss:0.307202
-Mixup:	SegCE loss:0.03995 	SegJaccard loss:0.135271 	ThrJaccard loss:0.132205 	SegMixup loss:0.682026 	ThrSup loss:0.308664 
-
        Acc: 95.509%          Sen: 79.429%          Spe: 98.997%         Prec: 83.857%         Dice: 76.061%          Jac: 65.900%           F2: 77.080%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch10_dice76.061.pth has been saved
@@ -60,204 +36,108 @@ epoch:12/500	SegCE loss:0.0449197 	SegJaccard loss:0.196597 	ThrJaccard loss:0.1
        Acc: 95.763%          Sen: 80.889%          Spe: 99.145%         Prec: 86.018%         Dice: 78.315%          Jac: 69.097%           F2: 79.176%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch12_dice78.315.pth has been saved
-epoch:456/500	SegCE loss:0.0167655 	SegJaccard loss:0.0907262 	ThrJaccard loss:0.0910027 	ThrGrad loss:0.000101421 	ThrSup loss:0.30707
-Mixup:	SegCE loss:0.0341145 	SegJaccard loss:0.110302 	ThrJaccard loss:0.1095 	SegMixup loss:0.536299 	ThrSup loss:0.307851 
-
-       Acc: 97.000%          Sen: 84.593%          Spe: 99.640%         Prec: 93.902%         Dice: 86.314%          Jac: 79.480%           F2: 84.957%
-
 epoch:13/500	SegCE loss:0.0431599 	SegJaccard loss:0.190788 	ThrJaccard loss:0.185238 	ThrGrad loss:0.000346835 	ThrSup loss:0.310319
 epoch:14/500	SegCE loss:0.0414874 	SegJaccard loss:0.195057 	ThrJaccard loss:0.186295 	ThrGrad loss:0.000336575 	ThrSup loss:0.309962
        Acc: 95.720%          Sen: 78.598%          Spe: 99.283%         Prec: 88.481%         Dice: 78.461%          Jac: 69.565%           F2: 77.930%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch14_dice78.461.pth has been saved
-epoch:457/500	SegCE loss:0.0169092 	SegJaccard loss:0.0897503 	ThrJaccard loss:0.089176 	ThrGrad loss:0.000107261 	ThrSup loss:0.307066
-Mixup:	SegCE loss:0.0395331 	SegJaccard loss:0.13217 	ThrJaccard loss:0.13117 	SegMixup loss:0.598706 	ThrSup loss:0.308575 
-
 epoch:15/500	SegCE loss:0.0428093 	SegJaccard loss:0.184762 	ThrJaccard loss:0.176012 	ThrGrad loss:0.000328518 	ThrSup loss:0.309995
 epoch:16/500	SegCE loss:0.0417317 	SegJaccard loss:0.184165 	ThrJaccard loss:0.175314 	ThrGrad loss:0.00031227 	ThrSup loss:0.30957
        Acc: 95.702%          Sen: 77.756%          Spe: 99.387%         Prec: 89.276%         Dice: 78.405%          Jac: 69.478%           F2: 77.531%
-
-epoch:458/500	SegCE loss:0.016908 	SegJaccard loss:0.0919979 	ThrJaccard loss:0.0927147 	ThrGrad loss:0.000110874 	ThrSup loss:0.307219
-Mixup:	SegCE loss:0.0304184 	SegJaccard loss:0.113936 	ThrJaccard loss:0.114134 	SegMixup loss:0.581822 	ThrSup loss:0.30839 
-
-       Acc: 96.960%          Sen: 84.603%          Spe: 99.635%         Prec: 93.669%         Dice: 86.154%          Jac: 79.265%           F2: 84.899%
 
 epoch:17/500	SegCE loss:0.0388368 	SegJaccard loss:0.179709 	ThrJaccard loss:0.172824 	ThrGrad loss:0.0003105 	ThrSup loss:0.309763
 epoch:18/500	SegCE loss:0.0374723 	SegJaccard loss:0.174357 	ThrJaccard loss:0.168819 	ThrGrad loss:0.000291774 	ThrSup loss:0.30922
        Acc: 95.864%          Sen: 79.731%          Spe: 99.317%         Prec: 89.326%         Dice: 79.842%          Jac: 71.388%           F2: 79.256%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch18_dice79.842.pth has been saved
-epoch:459/500	SegCE loss:0.016792 	SegJaccard loss:0.089495 	ThrJaccard loss:0.0892694 	ThrGrad loss:0.000101958 	ThrSup loss:0.306917
-Mixup:	SegCE loss:0.0420464 	SegJaccard loss:0.125566 	ThrJaccard loss:0.124418 	SegMixup loss:0.547617 	ThrSup loss:0.308213 
-
 epoch:19/500	SegCE loss:0.0390159 	SegJaccard loss:0.174436 	ThrJaccard loss:0.167738 	ThrGrad loss:0.00028558 	ThrSup loss:0.309516
 epoch:20/500	SegCE loss:0.0381678 	SegJaccard loss:0.176963 	ThrJaccard loss:0.170155 	ThrGrad loss:0.000282084 	ThrSup loss:0.310205
        Acc: 95.712%          Sen: 76.715%          Spe: 99.445%         Prec: 90.693%         Dice: 78.743%          Jac: 69.842%           F2: 77.051%
 
 epoch:21/500	SegCE loss:0.0381028 	SegJaccard loss:0.170521 	ThrJaccard loss:0.164525 	ThrGrad loss:0.000274376 	ThrSup loss:0.309357
-epoch:460/500	SegCE loss:0.0168716 	SegJaccard loss:0.0896865 	ThrJaccard loss:0.08998 	ThrGrad loss:0.000106208 	ThrSup loss:0.307134
-Mixup:	SegCE loss:0.0437903 	SegJaccard loss:0.138101 	ThrJaccard loss:0.137219 	SegMixup loss:0.647522 	ThrSup loss:0.308284 
-
-       Acc: 97.026%          Sen: 85.130%          Spe: 99.585%         Prec: 93.291%         Dice: 86.323%          Jac: 79.453%           F2: 85.217%
-
 epoch:22/500	SegCE loss:0.0359587 	SegJaccard loss:0.170664 	ThrJaccard loss:0.164272 	ThrGrad loss:0.000270829 	ThrSup loss:0.309641
        Acc: 95.815%          Sen: 77.557%          Spe: 99.512%         Prec: 91.910%         Dice: 79.806%          Jac: 71.599%           F2: 78.014%
 
 epoch:23/500	SegCE loss:0.0363478 	SegJaccard loss:0.171435 	ThrJaccard loss:0.162377 	ThrGrad loss:0.000264451 	ThrSup loss:0.309242
-epoch:461/500	SegCE loss:0.0169493 	SegJaccard loss:0.0913412 	ThrJaccard loss:0.0902098 	ThrGrad loss:0.000107671 	ThrSup loss:0.307477
-Mixup:	SegCE loss:0.0443546 	SegJaccard loss:0.143681 	ThrJaccard loss:0.142896 	SegMixup loss:0.621216 	ThrSup loss:0.308921 
-
 epoch:24/500	SegCE loss:0.0355243 	SegJaccard loss:0.161006 	ThrJaccard loss:0.154704 	ThrGrad loss:0.000263491 	ThrSup loss:0.309122
        Acc: 95.906%          Sen: 76.982%          Spe: 99.534%         Prec: 92.058%         Dice: 79.623%          Jac: 71.381%           F2: 77.603%
 
 epoch:25/500	SegCE loss:0.0343533 	SegJaccard loss:0.162018 	ThrJaccard loss:0.15808 	ThrGrad loss:0.000255736 	ThrSup loss:0.309017
-epoch:462/500	SegCE loss:0.0172473 	SegJaccard loss:0.0942573 	ThrJaccard loss:0.0934576 	ThrGrad loss:0.000113683 	ThrSup loss:0.307072
-Mixup:	SegCE loss:0.0340715 	SegJaccard loss:0.110675 	ThrJaccard loss:0.110754 	SegMixup loss:0.564673 	ThrSup loss:0.308356 
-
-       Acc: 97.026%          Sen: 85.135%          Spe: 99.598%         Prec: 93.368%         Dice: 86.345%          Jac: 79.495%           F2: 85.242%
-
 epoch:26/500	SegCE loss:0.033109 	SegJaccard loss:0.157906 	ThrJaccard loss:0.151851 	ThrGrad loss:0.000258794 	ThrSup loss:0.309205
        Acc: 96.101%          Sen: 80.542%          Spe: 99.367%         Prec: 90.089%         Dice: 80.851%          Jac: 72.604%           F2: 80.097%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch26_dice80.851.pth has been saved
 epoch:27/500	SegCE loss:0.0348713 	SegJaccard loss:0.161186 	ThrJaccard loss:0.154846 	ThrGrad loss:0.000249268 	ThrSup loss:0.309206
-epoch:463/500	SegCE loss:0.0170288 	SegJaccard loss:0.090762 	ThrJaccard loss:0.0904006 	ThrGrad loss:0.000112985 	ThrSup loss:0.30698
-Mixup:	SegCE loss:0.0300683 	SegJaccard loss:0.115163 	ThrJaccard loss:0.113516 	SegMixup loss:0.62066 	ThrSup loss:0.307898 
-
 epoch:28/500	SegCE loss:0.0332304 	SegJaccard loss:0.157921 	ThrJaccard loss:0.150733 	ThrGrad loss:0.000252202 	ThrSup loss:0.309339
        Acc: 96.021%          Sen: 78.428%          Spe: 99.533%         Prec: 92.140%         Dice: 80.393%          Jac: 72.438%           F2: 78.805%
 
 epoch:29/500	SegCE loss:0.0315342 	SegJaccard loss:0.155376 	ThrJaccard loss:0.150635 	ThrGrad loss:0.00024102 	ThrSup loss:0.309411
 epoch:30/500	SegCE loss:0.0318479 	SegJaccard loss:0.159416 	ThrJaccard loss:0.1517 	ThrGrad loss:0.000228013 	ThrSup loss:0.309216
-epoch:464/500	SegCE loss:0.0169094 	SegJaccard loss:0.089557 	ThrJaccard loss:0.0903644 	ThrGrad loss:0.000106763 	ThrSup loss:0.307019
-Mixup:	SegCE loss:0.0460206 	SegJaccard loss:0.142242 	ThrJaccard loss:0.142484 	SegMixup loss:0.659069 	ThrSup loss:0.308107 
-
        Acc: 96.047%          Sen: 78.637%          Spe: 99.508%         Prec: 91.948%         Dice: 80.671%          Jac: 72.680%           F2: 79.034%
-
-       Acc: 97.040%          Sen: 85.958%          Spe: 99.515%         Prec: 92.514%         Dice: 86.386%          Jac: 79.511%           F2: 85.673%
 
 epoch:31/500	SegCE loss:0.0307403 	SegJaccard loss:0.155698 	ThrJaccard loss:0.151858 	ThrGrad loss:0.000238025 	ThrSup loss:0.30918
 epoch:32/500	SegCE loss:0.0329314 	SegJaccard loss:0.157045 	ThrJaccard loss:0.15223 	ThrGrad loss:0.000220091 	ThrSup loss:0.309629
        Acc: 96.165%          Sen: 79.905%          Spe: 99.495%         Prec: 91.888%         Dice: 81.409%          Jac: 73.791%           F2: 80.121%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch32_dice81.409.pth has been saved
-epoch:465/500	SegCE loss:0.0170197 	SegJaccard loss:0.0913713 	ThrJaccard loss:0.0916761 	ThrGrad loss:0.000111129 	ThrSup loss:0.307067
-Mixup:	SegCE loss:0.045282 	SegJaccard loss:0.13269 	ThrJaccard loss:0.132145 	SegMixup loss:0.582469 	ThrSup loss:0.308849 
-
 epoch:33/500	SegCE loss:0.0308805 	SegJaccard loss:0.148141 	ThrJaccard loss:0.14351 	ThrGrad loss:0.000224673 	ThrSup loss:0.308962
 epoch:34/500	SegCE loss:0.0303872 	SegJaccard loss:0.148571 	ThrJaccard loss:0.144482 	ThrGrad loss:0.000222224 	ThrSup loss:0.309103
        Acc: 96.137%          Sen: 81.767%          Spe: 99.365%         Prec: 89.534%         Dice: 81.197%          Jac: 73.291%           F2: 81.052%
-
-epoch:466/500	SegCE loss:0.0170383 	SegJaccard loss:0.0905488 	ThrJaccard loss:0.0905179 	ThrGrad loss:0.000112367 	ThrSup loss:0.307025
-Mixup:	SegCE loss:0.0365466 	SegJaccard loss:0.118371 	ThrJaccard loss:0.117487 	SegMixup loss:0.645564 	ThrSup loss:0.307987 
-
-       Acc: 97.005%          Sen: 84.730%          Spe: 99.623%         Prec: 93.636%         Dice: 86.252%          Jac: 79.368%           F2: 85.006%
 
 epoch:35/500	SegCE loss:0.0305523 	SegJaccard loss:0.14501 	ThrJaccard loss:0.13998 	ThrGrad loss:0.000218727 	ThrSup loss:0.308602
 epoch:36/500	SegCE loss:0.0304835 	SegJaccard loss:0.143044 	ThrJaccard loss:0.139113 	ThrGrad loss:0.000219369 	ThrSup loss:0.308684
        Acc: 96.249%          Sen: 82.569%          Spe: 99.376%         Prec: 89.803%         Dice: 81.902%          Jac: 74.210%           F2: 81.814%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch36_dice81.902.pth has been saved
-epoch:467/500	SegCE loss:0.0167694 	SegJaccard loss:0.0912108 	ThrJaccard loss:0.0916847 	ThrGrad loss:0.000106945 	ThrSup loss:0.306902
-Mixup:	SegCE loss:0.0354278 	SegJaccard loss:0.115439 	ThrJaccard loss:0.114196 	SegMixup loss:0.563165 	ThrSup loss:0.307462 
-
 epoch:37/500	SegCE loss:0.0315297 	SegJaccard loss:0.149797 	ThrJaccard loss:0.144655 	ThrGrad loss:0.000216693 	ThrSup loss:0.309513
 epoch:38/500	SegCE loss:0.0293206 	SegJaccard loss:0.148848 	ThrJaccard loss:0.143417 	ThrGrad loss:0.000218787 	ThrSup loss:0.309026
        Acc: 96.171%          Sen: 80.573%          Spe: 99.527%         Prec: 91.901%         Dice: 81.618%          Jac: 74.178%           F2: 80.599%
 
-epoch:468/500	SegCE loss:0.0170086 	SegJaccard loss:0.0928054 	ThrJaccard loss:0.0919509 	ThrGrad loss:0.000106704 	ThrSup loss:0.306916
-Mixup:	SegCE loss:0.0250858 	SegJaccard loss:0.10502 	ThrJaccard loss:0.103436 	SegMixup loss:0.519062 	ThrSup loss:0.307689 
-
 epoch:39/500	SegCE loss:0.028836 	SegJaccard loss:0.142141 	ThrJaccard loss:0.137304 	ThrGrad loss:0.000204189 	ThrSup loss:0.309134
-       Acc: 97.013%          Sen: 84.940%          Spe: 99.618%         Prec: 93.507%         Dice: 86.309%          Jac: 79.439%           F2: 85.149%
-
 epoch:40/500	SegCE loss:0.0288471 	SegJaccard loss:0.145485 	ThrJaccard loss:0.139596 	ThrGrad loss:0.000221565 	ThrSup loss:0.308741
        Acc: 96.171%          Sen: 81.052%          Spe: 99.467%         Prec: 90.883%         Dice: 81.296%          Jac: 73.794%           F2: 80.678%
 
 epoch:41/500	SegCE loss:0.0293318 	SegJaccard loss:0.144925 	ThrJaccard loss:0.140284 	ThrGrad loss:0.000213338 	ThrSup loss:0.308809
-epoch:469/500	SegCE loss:0.016701 	SegJaccard loss:0.0896015 	ThrJaccard loss:0.0890229 	ThrGrad loss:0.000103298 	ThrSup loss:0.306973
-Mixup:	SegCE loss:0.0352966 	SegJaccard loss:0.109441 	ThrJaccard loss:0.108833 	SegMixup loss:0.567225 	ThrSup loss:0.30776 
-
 epoch:42/500	SegCE loss:0.0300521 	SegJaccard loss:0.146188 	ThrJaccard loss:0.1425 	ThrGrad loss:0.000202975 	ThrSup loss:0.308816
        Acc: 96.285%          Sen: 82.499%          Spe: 99.404%         Prec: 89.766%         Dice: 81.680%          Jac: 74.040%           F2: 81.647%
 
 epoch:43/500	SegCE loss:0.0290925 	SegJaccard loss:0.139748 	ThrJaccard loss:0.137211 	ThrGrad loss:0.000214191 	ThrSup loss:0.308714
-epoch:470/500	SegCE loss:0.0168715 	SegJaccard loss:0.0915049 	ThrJaccard loss:0.0911641 	ThrGrad loss:0.000103096 	ThrSup loss:0.306965
-Mixup:	SegCE loss:0.0317742 	SegJaccard loss:0.117841 	ThrJaccard loss:0.117462 	SegMixup loss:0.585109 	ThrSup loss:0.308262 
-
-       Acc: 97.014%          Sen: 85.395%          Spe: 99.586%         Prec: 92.995%         Dice: 86.302%          Jac: 79.387%           F2: 85.409%
-
 epoch:44/500	SegCE loss:0.0276942 	SegJaccard loss:0.138556 	ThrJaccard loss:0.133544 	ThrGrad loss:0.000200398 	ThrSup loss:0.309711
        Acc: 96.305%          Sen: 84.263%          Spe: 99.170%         Prec: 87.571%         Dice: 81.644%          Jac: 73.679%           F2: 82.533%
 
 epoch:45/500	SegCE loss:0.0282666 	SegJaccard loss:0.138796 	ThrJaccard loss:0.134787 	ThrGrad loss:0.00020433 	ThrSup loss:0.30898
-epoch:471/500	SegCE loss:0.0168781 	SegJaccard loss:0.0928425 	ThrJaccard loss:0.0933082 	ThrGrad loss:0.000107667 	ThrSup loss:0.306939
-Mixup:	SegCE loss:0.0304831 	SegJaccard loss:0.111327 	ThrJaccard loss:0.110712 	SegMixup loss:0.661407 	ThrSup loss:0.307957 
-
 epoch:46/500	SegCE loss:0.0280429 	SegJaccard loss:0.145034 	ThrJaccard loss:0.140639 	ThrGrad loss:0.000204997 	ThrSup loss:0.308781
        Acc: 96.355%          Sen: 82.799%          Spe: 99.443%         Prec: 90.900%         Dice: 82.612%          Jac: 75.456%           F2: 82.336%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch46_dice82.612.pth has been saved
 epoch:47/500	SegCE loss:0.0279654 	SegJaccard loss:0.13998 	ThrJaccard loss:0.137348 	ThrGrad loss:0.00020153 	ThrSup loss:0.308964
-epoch:472/500	SegCE loss:0.0167476 	SegJaccard loss:0.090444 	ThrJaccard loss:0.0907979 	ThrGrad loss:0.00010561 	ThrSup loss:0.306886
-Mixup:	SegCE loss:0.0399719 	SegJaccard loss:0.126866 	ThrJaccard loss:0.12696 	SegMixup loss:0.668471 	ThrSup loss:0.308018 
-
 epoch:48/500	SegCE loss:0.0269381 	SegJaccard loss:0.138668 	ThrJaccard loss:0.134215 	ThrGrad loss:0.000198276 	ThrSup loss:0.308543
-       Acc: 96.943%          Sen: 84.212%          Spe: 99.651%         Prec: 93.853%         Dice: 86.000%          Jac: 79.068%           F2: 84.613%
-
        Acc: 96.309%          Sen: 81.628%          Spe: 99.482%         Prec: 91.545%         Dice: 82.102%          Jac: 74.995%           F2: 81.394%
 
 epoch:49/500	SegCE loss:0.0274739 	SegJaccard loss:0.141388 	ThrJaccard loss:0.13599 	ThrGrad loss:0.000199742 	ThrSup loss:0.308549
-epoch:473/500	SegCE loss:0.0170811 	SegJaccard loss:0.0908587 	ThrJaccard loss:0.0909289 	ThrGrad loss:0.000102845 	ThrSup loss:0.306886
-Mixup:	SegCE loss:0.042965 	SegJaccard loss:0.125773 	ThrJaccard loss:0.126166 	SegMixup loss:0.630222 	ThrSup loss:0.308074 
-
 epoch:50/500	SegCE loss:0.0314436 	SegJaccard loss:0.151161 	ThrJaccard loss:0.144965 	ThrGrad loss:0.000187477 	ThrSup loss:0.310568
 Mixup:	SegCE loss:0.0799168 	SegJaccard loss:0.178558 	ThrJaccard loss:0.167111 	SegMixup loss:1.29622 	ThrSup loss:0.309947 
 
        Acc: 96.464%          Sen: 81.832%          Spe: 99.523%         Prec: 91.817%         Dice: 82.532%          Jac: 75.585%           F2: 81.786%
 
-epoch:474/500	SegCE loss:0.0170995 	SegJaccard loss:0.0919216 	ThrJaccard loss:0.0910292 	ThrGrad loss:0.000108837 	ThrSup loss:0.306895
-Mixup:	SegCE loss:0.0306808 	SegJaccard loss:0.107721 	ThrJaccard loss:0.10797 	SegMixup loss:0.532839 	ThrSup loss:0.307945 
-
-       Acc: 97.000%          Sen: 85.129%          Spe: 99.597%         Prec: 93.191%         Dice: 86.244%          Jac: 79.327%           F2: 85.229%
-
 epoch:51/500	SegCE loss:0.0323041 	SegJaccard loss:0.152224 	ThrJaccard loss:0.147931 	ThrGrad loss:0.000200374 	ThrSup loss:0.310386
 Mixup:	SegCE loss:0.0646447 	SegJaccard loss:0.173757 	ThrJaccard loss:0.161943 	SegMixup loss:1.12404 	ThrSup loss:0.310261 
-
-epoch:475/500	SegCE loss:0.0170919 	SegJaccard loss:0.0903815 	ThrJaccard loss:0.0910335 	ThrGrad loss:0.000107831 	ThrSup loss:0.307041
-Mixup:	SegCE loss:0.0378572 	SegJaccard loss:0.121455 	ThrJaccard loss:0.119973 	SegMixup loss:0.572126 	ThrSup loss:0.308058 
 
 epoch:52/500	SegCE loss:0.0340686 	SegJaccard loss:0.151608 	ThrJaccard loss:0.147581 	ThrGrad loss:0.00021276 	ThrSup loss:0.314941
 Mixup:	SegCE loss:0.0818968 	SegJaccard loss:0.20259 	ThrJaccard loss:0.189965 	SegMixup loss:1.27455 	ThrSup loss:0.314027 
 
        Acc: 96.483%          Sen: 86.351%          Spe: 99.003%         Prec: 86.484%         Dice: 82.510%          Jac: 74.594%           F2: 84.094%
 
-epoch:476/500	SegCE loss:0.0168814 	SegJaccard loss:0.0905152 	ThrJaccard loss:0.0908572 	ThrGrad loss:0.000103965 	ThrSup loss:0.306985
-Mixup:	SegCE loss:0.0197629 	SegJaccard loss:0.0913272 	ThrJaccard loss:0.09052 	SegMixup loss:0.508281 	ThrSup loss:0.307722 
-
-       Acc: 96.986%          Sen: 84.634%          Spe: 99.629%         Prec: 93.655%         Dice: 86.180%          Jac: 79.284%           F2: 84.914%
-
 epoch:53/500	SegCE loss:0.0334939 	SegJaccard loss:0.151226 	ThrJaccard loss:0.146022 	ThrGrad loss:0.000229336 	ThrSup loss:0.313689
 Mixup:	SegCE loss:0.0878379 	SegJaccard loss:0.212071 	ThrJaccard loss:0.198533 	SegMixup loss:1.2748 	ThrSup loss:0.312587 
-
-epoch:477/500	SegCE loss:0.0165913 	SegJaccard loss:0.0904251 	ThrJaccard loss:0.0907464 	ThrGrad loss:0.000105375 	ThrSup loss:0.306877
-Mixup:	SegCE loss:0.0301067 	SegJaccard loss:0.106757 	ThrJaccard loss:0.105602 	SegMixup loss:0.55494 	ThrSup loss:0.307848 
 
 epoch:54/500	SegCE loss:0.0319924 	SegJaccard loss:0.142678 	ThrJaccard loss:0.138274 	ThrGrad loss:0.000228431 	ThrSup loss:0.311343
 Mixup:	SegCE loss:0.0482244 	SegJaccard loss:0.142498 	ThrJaccard loss:0.134282 	SegMixup loss:0.822532 	ThrSup loss:0.311362 
 
        Acc: 96.505%          Sen: 85.830%          Spe: 99.149%         Prec: 87.373%         Dice: 82.428%          Jac: 74.613%           F2: 83.724%
 
-epoch:478/500	SegCE loss:0.0169945 	SegJaccard loss:0.0902356 	ThrJaccard loss:0.0904346 	ThrGrad loss:0.000103221 	ThrSup loss:0.307106
-Mixup:	SegCE loss:0.0281026 	SegJaccard loss:0.116288 	ThrJaccard loss:0.116024 	SegMixup loss:0.593874 	ThrSup loss:0.308084 
-
-       Acc: 97.036%          Sen: 85.781%          Spe: 99.557%         Prec: 92.700%         Dice: 86.378%          Jac: 79.475%           F2: 85.633%
-
 epoch:55/500	SegCE loss:0.0302941 	SegJaccard loss:0.14218 	ThrJaccard loss:0.139647 	ThrGrad loss:0.000226035 	ThrSup loss:0.311264
 Mixup:	SegCE loss:0.0748842 	SegJaccard loss:0.191213 	ThrJaccard loss:0.180313 	SegMixup loss:1.062 	ThrSup loss:0.311121 
-
-epoch:479/500	SegCE loss:0.0166497 	SegJaccard loss:0.0904457 	ThrJaccard loss:0.090219 	ThrGrad loss:9.9911e-05 	ThrSup loss:0.30698
-Mixup:	SegCE loss:0.0382549 	SegJaccard loss:0.129452 	ThrJaccard loss:0.128184 	SegMixup loss:0.585588 	ThrSup loss:0.308493 
 
 epoch:56/500	SegCE loss:0.0334554 	SegJaccard loss:0.148041 	ThrJaccard loss:0.144068 	ThrGrad loss:0.000225697 	ThrSup loss:0.312686
 Mixup:	SegCE loss:0.0950087 	SegJaccard loss:0.232089 	ThrJaccard loss:0.215777 	SegMixup loss:1.15533 	ThrSup loss:0.311775 
@@ -265,16 +145,8 @@ Mixup:	SegCE loss:0.0950087 	SegJaccard loss:0.232089 	ThrJaccard loss:0.215777 
        Acc: 96.539%          Sen: 87.136%          Spe: 98.998%         Prec: 86.045%         Dice: 83.125%          Jac: 74.798%           F2: 84.812%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch56_dice83.125.pth has been saved
-epoch:480/500	SegCE loss:0.0166868 	SegJaccard loss:0.0893055 	ThrJaccard loss:0.0887918 	ThrGrad loss:0.000104817 	ThrSup loss:0.306899
-Mixup:	SegCE loss:0.0196439 	SegJaccard loss:0.0875896 	ThrJaccard loss:0.0866345 	SegMixup loss:0.537695 	ThrSup loss:0.307496 
-
-       Acc: 96.995%          Sen: 84.720%          Spe: 99.622%         Prec: 93.613%         Dice: 86.223%          Jac: 79.329%           F2: 84.985%
-
 epoch:57/500	SegCE loss:0.0297317 	SegJaccard loss:0.140935 	ThrJaccard loss:0.136906 	ThrGrad loss:0.000193834 	ThrSup loss:0.310844
 Mixup:	SegCE loss:0.0550917 	SegJaccard loss:0.158086 	ThrJaccard loss:0.15157 	SegMixup loss:0.877586 	ThrSup loss:0.310805 
-
-epoch:481/500	SegCE loss:0.0164517 	SegJaccard loss:0.0884378 	ThrJaccard loss:0.0885281 	ThrGrad loss:0.000102271 	ThrSup loss:0.306916
-Mixup:	SegCE loss:0.0253932 	SegJaccard loss:0.10422 	ThrJaccard loss:0.104153 	SegMixup loss:0.53674 	ThrSup loss:0.307462 
 
 epoch:58/500	SegCE loss:0.030209 	SegJaccard loss:0.139309 	ThrJaccard loss:0.137098 	ThrGrad loss:0.000202297 	ThrSup loss:0.310736
 Mixup:	SegCE loss:0.0619511 	SegJaccard loss:0.180289 	ThrJaccard loss:0.167746 	SegMixup loss:0.964856 	ThrSup loss:0.310665 
@@ -282,16 +154,8 @@ Mixup:	SegCE loss:0.0619511 	SegJaccard loss:0.180289 	ThrJaccard loss:0.167746 
        Acc: 96.601%          Sen: 86.905%          Spe: 99.072%         Prec: 87.530%         Dice: 83.527%          Jac: 75.774%           F2: 84.817%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch58_dice83.527.pth has been saved
-epoch:482/500	SegCE loss:0.0166764 	SegJaccard loss:0.0897241 	ThrJaccard loss:0.0895026 	ThrGrad loss:0.000101348 	ThrSup loss:0.307074
-Mixup:	SegCE loss:0.0439865 	SegJaccard loss:0.130074 	ThrJaccard loss:0.129107 	SegMixup loss:0.65887 	ThrSup loss:0.30775 
-
-       Acc: 97.035%          Sen: 85.546%          Spe: 99.569%         Prec: 92.906%         Dice: 86.357%          Jac: 79.445%           F2: 85.491%
-
 epoch:59/500	SegCE loss:0.0301085 	SegJaccard loss:0.140692 	ThrJaccard loss:0.135672 	ThrGrad loss:0.000206026 	ThrSup loss:0.310963
 Mixup:	SegCE loss:0.0434862 	SegJaccard loss:0.151044 	ThrJaccard loss:0.141384 	SegMixup loss:0.798098 	ThrSup loss:0.311212 
-
-epoch:483/500	SegCE loss:0.0167604 	SegJaccard loss:0.0904416 	ThrJaccard loss:0.0905717 	ThrGrad loss:0.000108569 	ThrSup loss:0.306978
-Mixup:	SegCE loss:0.0383179 	SegJaccard loss:0.131539 	ThrJaccard loss:0.131902 	SegMixup loss:0.619154 	ThrSup loss:0.307852 
 
 epoch:60/500	SegCE loss:0.0295455 	SegJaccard loss:0.140808 	ThrJaccard loss:0.136262 	ThrGrad loss:0.000200367 	ThrSup loss:0.314121
 Mixup:	SegCE loss:0.0726065 	SegJaccard loss:0.187411 	ThrJaccard loss:0.179921 	SegMixup loss:1.03912 	ThrSup loss:0.313395 
@@ -299,48 +163,24 @@ Mixup:	SegCE loss:0.0726065 	SegJaccard loss:0.187411 	ThrJaccard loss:0.179921 
        Acc: 96.754%          Sen: 87.990%          Spe: 99.102%         Prec: 87.434%         Dice: 84.381%          Jac: 76.483%           F2: 85.925%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch60_dice84.381.pth has been saved
-epoch:484/500	SegCE loss:0.0169449 	SegJaccard loss:0.0902913 	ThrJaccard loss:0.0903093 	ThrGrad loss:0.000110391 	ThrSup loss:0.307027
-Mixup:	SegCE loss:0.0432863 	SegJaccard loss:0.136633 	ThrJaccard loss:0.135635 	SegMixup loss:0.600357 	ThrSup loss:0.308985 
-
-       Acc: 97.024%          Sen: 85.098%          Spe: 99.602%         Prec: 93.327%         Dice: 86.318%          Jac: 79.425%           F2: 85.230%
-
 epoch:61/500	SegCE loss:0.0268634 	SegJaccard loss:0.133465 	ThrJaccard loss:0.130449 	ThrGrad loss:0.000207909 	ThrSup loss:0.309691
 Mixup:	SegCE loss:0.0445323 	SegJaccard loss:0.140999 	ThrJaccard loss:0.135124 	SegMixup loss:0.816077 	ThrSup loss:0.309627 
-
-epoch:485/500	SegCE loss:0.0163329 	SegJaccard loss:0.0905009 	ThrJaccard loss:0.0905923 	ThrGrad loss:0.000108901 	ThrSup loss:0.306951
-Mixup:	SegCE loss:0.0242632 	SegJaccard loss:0.0976618 	ThrJaccard loss:0.097934 	SegMixup loss:0.477565 	ThrSup loss:0.307584 
 
 epoch:62/500	SegCE loss:0.028746 	SegJaccard loss:0.135042 	ThrJaccard loss:0.133449 	ThrGrad loss:0.000198045 	ThrSup loss:0.311922
 Mixup:	SegCE loss:0.0766022 	SegJaccard loss:0.203669 	ThrJaccard loss:0.193358 	SegMixup loss:1.11006 	ThrSup loss:0.31148 
 
        Acc: 96.625%          Sen: 89.019%          Spe: 98.815%         Prec: 84.667%         Dice: 83.209%          Jac: 74.781%           F2: 85.777%
 
-epoch:486/500	SegCE loss:0.0167178 	SegJaccard loss:0.0917842 	ThrJaccard loss:0.0917033 	ThrGrad loss:0.000102732 	ThrSup loss:0.307053
-Mixup:	SegCE loss:0.0345953 	SegJaccard loss:0.122389 	ThrJaccard loss:0.122724 	SegMixup loss:0.591715 	ThrSup loss:0.308133 
-
-       Acc: 97.019%          Sen: 85.123%          Spe: 99.605%         Prec: 93.348%         Dice: 86.352%          Jac: 79.463%           F2: 85.275%
-
 epoch:63/500	SegCE loss:0.030942 	SegJaccard loss:0.139543 	ThrJaccard loss:0.136259 	ThrGrad loss:0.000185735 	ThrSup loss:0.312256
 Mixup:	SegCE loss:0.0638384 	SegJaccard loss:0.170597 	ThrJaccard loss:0.161352 	SegMixup loss:0.88107 	ThrSup loss:0.312022 
-
-epoch:487/500	SegCE loss:0.0163297 	SegJaccard loss:0.0900719 	ThrJaccard loss:0.0904215 	ThrGrad loss:9.82258e-05 	ThrSup loss:0.306998
-Mixup:	SegCE loss:0.0449309 	SegJaccard loss:0.134193 	ThrJaccard loss:0.133753 	SegMixup loss:0.630917 	ThrSup loss:0.308641 
 
 epoch:64/500	SegCE loss:0.0309316 	SegJaccard loss:0.14172 	ThrJaccard loss:0.13811 	ThrGrad loss:0.000186692 	ThrSup loss:0.311589
 Mixup:	SegCE loss:0.0805927 	SegJaccard loss:0.208686 	ThrJaccard loss:0.197846 	SegMixup loss:1.00552 	ThrSup loss:0.310741 
 
        Acc: 96.439%          Sen: 88.439%          Spe: 98.646%         Prec: 85.154%         Dice: 82.845%          Jac: 74.742%           F2: 84.989%
 
-epoch:488/500	SegCE loss:0.0169878 	SegJaccard loss:0.0883829 	ThrJaccard loss:0.0883981 	ThrGrad loss:0.00010092 	ThrSup loss:0.306993
-Mixup:	SegCE loss:0.0507832 	SegJaccard loss:0.156977 	ThrJaccard loss:0.15666 	SegMixup loss:0.667784 	ThrSup loss:0.308529 
-
-       Acc: 97.045%          Sen: 85.502%          Spe: 99.577%         Prec: 93.081%         Dice: 86.433%          Jac: 79.571%           F2: 85.496%
-
 epoch:65/500	SegCE loss:0.0300747 	SegJaccard loss:0.135207 	ThrJaccard loss:0.133228 	ThrGrad loss:0.000187759 	ThrSup loss:0.311172
 Mixup:	SegCE loss:0.0773776 	SegJaccard loss:0.195834 	ThrJaccard loss:0.186202 	SegMixup loss:0.989426 	ThrSup loss:0.31068 
-
-epoch:489/500	SegCE loss:0.0165094 	SegJaccard loss:0.0904747 	ThrJaccard loss:0.0914322 	ThrGrad loss:0.00010996 	ThrSup loss:0.307001
-Mixup:	SegCE loss:0.0445536 	SegJaccard loss:0.134003 	ThrJaccard loss:0.133611 	SegMixup loss:0.583376 	ThrSup loss:0.308394 
 
 epoch:66/500	SegCE loss:0.0292439 	SegJaccard loss:0.134354 	ThrJaccard loss:0.132428 	ThrGrad loss:0.000182753 	ThrSup loss:0.310651
 Mixup:	SegCE loss:0.0761432 	SegJaccard loss:0.206407 	ThrJaccard loss:0.196246 	SegMixup loss:1.09284 	ThrSup loss:0.310241 
@@ -348,32 +188,16 @@ Mixup:	SegCE loss:0.0761432 	SegJaccard loss:0.206407 	ThrJaccard loss:0.196246 
        Acc: 96.773%          Sen: 86.477%          Spe: 99.242%         Prec: 88.975%         Dice: 84.405%          Jac: 76.648%           F2: 85.035%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch66_dice84.405.pth has been saved
-epoch:490/500	SegCE loss:0.0166656 	SegJaccard loss:0.0914223 	ThrJaccard loss:0.0923405 	ThrGrad loss:0.000107242 	ThrSup loss:0.306975
-Mixup:	SegCE loss:0.0298374 	SegJaccard loss:0.103581 	ThrJaccard loss:0.104607 	SegMixup loss:0.516968 	ThrSup loss:0.307885 
-
-       Acc: 97.035%          Sen: 85.191%          Spe: 99.593%         Prec: 93.301%         Dice: 86.364%          Jac: 79.489%           F2: 85.287%
-
 epoch:67/500	SegCE loss:0.0299049 	SegJaccard loss:0.139298 	ThrJaccard loss:0.135786 	ThrGrad loss:0.000194499 	ThrSup loss:0.310695
 Mixup:	SegCE loss:0.0805819 	SegJaccard loss:0.193929 	ThrJaccard loss:0.184345 	SegMixup loss:1.04049 	ThrSup loss:0.310041 
-
-epoch:491/500	SegCE loss:0.0163678 	SegJaccard loss:0.0880012 	ThrJaccard loss:0.0881849 	ThrGrad loss:0.000108511 	ThrSup loss:0.306967
-Mixup:	SegCE loss:0.0300557 	SegJaccard loss:0.111042 	ThrJaccard loss:0.110724 	SegMixup loss:0.585486 	ThrSup loss:0.307851 
 
 epoch:68/500	SegCE loss:0.0286473 	SegJaccard loss:0.137441 	ThrJaccard loss:0.134866 	ThrGrad loss:0.000188062 	ThrSup loss:0.312668
 Mixup:	SegCE loss:0.0684928 	SegJaccard loss:0.185175 	ThrJaccard loss:0.17601 	SegMixup loss:0.910514 	ThrSup loss:0.31269 
 
        Acc: 96.490%          Sen: 88.770%          Spe: 98.635%         Prec: 84.614%         Dice: 83.074%          Jac: 74.512%           F2: 85.482%
 
-epoch:492/500	SegCE loss:0.0166102 	SegJaccard loss:0.0900745 	ThrJaccard loss:0.0899603 	ThrGrad loss:0.000104746 	ThrSup loss:0.306926
-Mixup:	SegCE loss:0.0358419 	SegJaccard loss:0.120195 	ThrJaccard loss:0.119463 	SegMixup loss:0.643357 	ThrSup loss:0.3081 
-
-       Acc: 97.031%          Sen: 85.203%          Spe: 99.591%         Prec: 93.263%         Dice: 86.349%          Jac: 79.466%           F2: 85.283%
-
 epoch:69/500	SegCE loss:0.0280531 	SegJaccard loss:0.13086 	ThrJaccard loss:0.128282 	ThrGrad loss:0.000186519 	ThrSup loss:0.310252
 Mixup:	SegCE loss:0.0826852 	SegJaccard loss:0.20585 	ThrJaccard loss:0.196642 	SegMixup loss:1.03488 	ThrSup loss:0.3098 
-
-epoch:493/500	SegCE loss:0.016872 	SegJaccard loss:0.090291 	ThrJaccard loss:0.0896309 	ThrGrad loss:0.000104579 	ThrSup loss:0.306914
-Mixup:	SegCE loss:0.0349346 	SegJaccard loss:0.117901 	ThrJaccard loss:0.118042 	SegMixup loss:0.56276 	ThrSup loss:0.307795 
 
 epoch:70/500	SegCE loss:0.0294012 	SegJaccard loss:0.130867 	ThrJaccard loss:0.127959 	ThrGrad loss:0.00018384 	ThrSup loss:0.310435
 Mixup:	SegCE loss:0.060124 	SegJaccard loss:0.171925 	ThrJaccard loss:0.163906 	SegMixup loss:0.953347 	ThrSup loss:0.310851 
@@ -381,16 +205,8 @@ Mixup:	SegCE loss:0.060124 	SegJaccard loss:0.171925 	ThrJaccard loss:0.163906 	
        Acc: 96.797%          Sen: 86.853%          Spe: 99.196%         Prec: 89.225%         Dice: 84.708%          Jac: 77.085%           F2: 85.342%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch70_dice84.708.pth has been saved
-epoch:494/500	SegCE loss:0.0166192 	SegJaccard loss:0.0910438 	ThrJaccard loss:0.0907373 	ThrGrad loss:0.000106467 	ThrSup loss:0.306981
-Mixup:	SegCE loss:0.0469261 	SegJaccard loss:0.148357 	ThrJaccard loss:0.147417 	SegMixup loss:0.632851 	ThrSup loss:0.308484 
-
-       Acc: 97.045%          Sen: 85.440%          Spe: 99.575%         Prec: 93.052%         Dice: 86.396%          Jac: 79.498%           F2: 85.431%
-
 epoch:71/500	SegCE loss:0.0288242 	SegJaccard loss:0.14037 	ThrJaccard loss:0.135939 	ThrGrad loss:0.000168787 	ThrSup loss:0.309625
 Mixup:	SegCE loss:0.0598112 	SegJaccard loss:0.171791 	ThrJaccard loss:0.164434 	SegMixup loss:0.831534 	ThrSup loss:0.309774 
-
-epoch:495/500	SegCE loss:0.0163858 	SegJaccard loss:0.0886557 	ThrJaccard loss:0.089404 	ThrGrad loss:0.000110752 	ThrSup loss:0.306994
-Mixup:	SegCE loss:0.0338291 	SegJaccard loss:0.1146 	ThrJaccard loss:0.114348 	SegMixup loss:0.512737 	ThrSup loss:0.308638 
 
 epoch:72/500	SegCE loss:0.0294408 	SegJaccard loss:0.135573 	ThrJaccard loss:0.133967 	ThrGrad loss:0.000181494 	ThrSup loss:0.311619
 Mixup:	SegCE loss:0.0728777 	SegJaccard loss:0.193094 	ThrJaccard loss:0.184142 	SegMixup loss:0.979822 	ThrSup loss:0.311174 
@@ -398,32 +214,16 @@ Mixup:	SegCE loss:0.0728777 	SegJaccard loss:0.193094 	ThrJaccard loss:0.184142 
        Acc: 96.902%          Sen: 87.438%          Spe: 99.140%         Prec: 88.518%         Dice: 84.918%          Jac: 77.142%           F2: 85.791%
 
 /home/xiaoqiguo2/Threshold/model/CVC_lr001_384_256_A3_Ba4m3_C5_D5_E2_S50/model-best-deeplabv3plus_res101_atrous_CVC_epoch72_dice84.918.pth has been saved
-epoch:496/500	SegCE loss:0.0169793 	SegJaccard loss:0.0902544 	ThrJaccard loss:0.0893935 	ThrGrad loss:0.000107245 	ThrSup loss:0.306913
-Mixup:	SegCE loss:0.0444129 	SegJaccard loss:0.132916 	ThrJaccard loss:0.132299 	SegMixup loss:0.571762 	ThrSup loss:0.308108 
-
-       Acc: 97.043%          Sen: 85.489%          Spe: 99.571%         Prec: 93.009%         Dice: 86.400%          Jac: 79.506%           F2: 85.465%
-
 epoch:73/500	SegCE loss:0.0284589 	SegJaccard loss:0.130207 	ThrJaccard loss:0.127528 	ThrGrad loss:0.000189907 	ThrSup loss:0.310426
 Mixup:	SegCE loss:0.0567311 	SegJaccard loss:0.163064 	ThrJaccard loss:0.155157 	SegMixup loss:0.798664 	ThrSup loss:0.310474 
-
-epoch:497/500	SegCE loss:0.016744 	SegJaccard loss:0.0894634 	ThrJaccard loss:0.0896555 	ThrGrad loss:0.00011256 	ThrSup loss:0.307027
-Mixup:	SegCE loss:0.0355523 	SegJaccard loss:0.12163 	ThrJaccard loss:0.121399 	SegMixup loss:0.6143 	ThrSup loss:0.308617 
 
 epoch:74/500	SegCE loss:0.0284318 	SegJaccard loss:0.129112 	ThrJaccard loss:0.126519 	ThrGrad loss:0.000180636 	ThrSup loss:0.30953
 Mixup:	SegCE loss:0.0609551 	SegJaccard loss:0.163834 	ThrJaccard loss:0.154951 	SegMixup loss:0.864849 	ThrSup loss:0.309801 
 
        Acc: 96.682%          Sen: 90.253%          Spe: 98.501%         Prec: 83.667%         Dice: 83.450%          Jac: 75.045%           F2: 86.303%
 
-epoch:498/500	SegCE loss:0.016985 	SegJaccard loss:0.0897312 	ThrJaccard loss:0.0906456 	ThrGrad loss:0.000104609 	ThrSup loss:0.307034
-Mixup:	SegCE loss:0.0313112 	SegJaccard loss:0.112423 	ThrJaccard loss:0.11218 	SegMixup loss:0.558715 	ThrSup loss:0.308014 
-
-       Acc: 97.038%          Sen: 85.301%          Spe: 99.587%         Prec: 93.197%         Dice: 86.382%          Jac: 79.499%           F2: 85.353%
-
 epoch:75/500	SegCE loss:0.0278001 	SegJaccard loss:0.130743 	ThrJaccard loss:0.128606 	ThrGrad loss:0.000172734 	ThrSup loss:0.310665
 Mixup:	SegCE loss:0.0535513 	SegJaccard loss:0.161937 	ThrJaccard loss:0.151751 	SegMixup loss:0.827897 	ThrSup loss:0.310631 
-
-epoch:499/500	SegCE loss:0.0167026 	SegJaccard loss:0.0885682 	ThrJaccard loss:0.0887958 	ThrGrad loss:0.000105877 	ThrSup loss:0.306863
-Mixup:	SegCE loss:0.0425425 	SegJaccard loss:0.125655 	ThrJaccard loss:0.125135 	SegMixup loss:0.583985 	ThrSup loss:0.308543 
 
 epoch:76/500	SegCE loss:0.0288551 	SegJaccard loss:0.13372 	ThrJaccard loss:0.132232 	ThrGrad loss:0.000181413 	ThrSup loss:0.310672
 Mixup:	SegCE loss:0.0770147 	SegJaccard loss:0.223549 	ThrJaccard loss:0.209105 	SegMixup loss:1.04368 	ThrSup loss:0.311284 
