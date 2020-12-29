@@ -20,6 +20,27 @@ Clone the repository:
 ```
 git clone https://github.com/Guo-Xiaoqing/ThresholdNet.git
 cd ThresholdNet 
+bash Threshold.sh
+```
+
+### Data preparation:
+Dataset should be put into the folder './data'. For example, if the name of dataset is CVC, then the path of dataset should be './data/CVC/', and the folder structure is as following.
+```
+ThresholdNet
+|-data
+|--CVC
+|---images
+|---labels
+|---train.txt
+|---test.txt
+|---valid.txt
+```
+The content of 'train.txt' should be just like:
+```
+26.png
+27.png
+28.png
+...
 ```
 
 ### Pretrained model:
@@ -27,6 +48,9 @@ You should download the pretrained model from [Google Drive](https://drive.googl
 
 ### Well trained model:
 You could download the trained model from [Google Drive](https://drive.google.com/file/d/1JURhma-F5c6SVBoBoGwFYh6QAaVzy_-W/view?usp=sharing), which achieves 87.307% in Dice score on the [EndoScene testing dataset](https://www.hindawi.com/journals/jhe/2017/4037190/). Put the model in directory './models'.
+
+### Baseline model:
+We also provide some codes of baseline methods, including polyp segmentation models and mixup related data augmentation baselines.
 
 ## Citation:
 To be updated
