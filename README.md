@@ -5,7 +5,7 @@ by [Xiaoqing Guo](https://guo-xiaoqing.github.io/).
 ## Summary:
 
 ### Intoduction:
-This repository is for our IEEE TMI 2020 paper ["Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation"]()
+This repository is for our IEEE TMI 2020 paper ["Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation"](https://ieeexplore.ieee.org/document/9305717)
 
 ### Framework:
 ![](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/Figs/network.png)
