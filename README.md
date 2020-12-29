@@ -53,7 +53,7 @@ You could download the trained model from [Google Drive](https://drive.google.co
 We also provide some codes of baseline methods, including polyp segmentation models and mixup related data augmentation baselines.
 
 ### Results:
-Log files are listed in [Logs](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/Logs/), which loss and accuracy of a mini-batch during training phase.
+Log files are listed in [log.out](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/log.out) and [log1.out](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/log1.out), which loss and accuracy of a mini-batch during training phase.
 
 ## Citation:
 To be updated
