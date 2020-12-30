@@ -56,7 +56,15 @@ We also provide some codes of baseline methods, including polyp segmentation mod
 Log files are listed in [log.out](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/log.out) and [log1.out](https://github.com/Guo-Xiaoqing/ThresholdNet/raw/master/log1.out), which loss and accuracy of a mini-batch during training phase.
 
 ## Citation:
-To be updated
+```
+@article{guo2020learn,
+  title={Learn to Threshold: ThresholdNet with Confidence-Guided Manifold Mixup for Polyp Segmentation},
+  author={Guo, Xiaoqing and Yang, Chen and Liu, Yajie, Yuan, Yixuan},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2020},
+  publisher={IEEE}
+}
+```
 
 ## Questions:
 Please contact "xiaoqingguo1128@gmail.com" 
