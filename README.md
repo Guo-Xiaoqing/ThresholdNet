@@ -62,6 +62,9 @@ Log files are listed in [log.out](https://github.com/Guo-Xiaoqing/ThresholdNet/r
   author={Guo, Xiaoqing and Yang, Chen and Liu, Yajie, Yuan, Yixuan},
   journal={IEEE Transactions on Medical Imaging},
   year={2020},
+  volume={40},
+  number={4},
+  pages={1134-1146},
   publisher={IEEE}
 }
 ```
