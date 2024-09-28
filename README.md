@@ -47,7 +47,7 @@ The content of 'train.txt', 'test.txt' and 'valid.txt' should be just like:
 You should download the pretrained model from [Google Drive](https://drive.google.com/file/d/1yeZxwV6dYHQJmj2i5x9PnB6u-rqvlkCj/view?usp=sharing), and then put it in the './model' folder for initialization. 
 
 ### Well trained model:
-You could download the trained model from [Google Drive](https://drive.google.com/file/d/1JURhma-F5c6SVBoBoGwFYh6QAaVzy_-W/view?usp=sharing), which achieves 87.307% in Dice score on the [EndoScene testing dataset](https://www.hindawi.com/journals/jhe/2017/4037190/). Put the model in directory './models'.
+You could download the trained model from [Google Drive](https://drive.google.com/file/d/1tviGiWdCe0EajnVXAq90lKPTcyx4IJMw/view?usp=sharing), which achieves 87.307% in Dice score on the [EndoScene testing dataset](https://www.hindawi.com/journals/jhe/2017/4037190/). Put the model in directory './models'.
 
 ### Baseline model:
 We also provide some codes of baseline methods, including polyp segmentation models and mixup related data augmentation baselines.
